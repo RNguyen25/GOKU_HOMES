@@ -7,3 +7,5 @@ Additionally, Goku Homes offers a tool that allows users to visualize potential 
 IMPORTANT: set up .env file, use your OpenAI key
 
 KEY=YOUR_API_KEY
+
+CLONE OF REPO, needed to launch
