@@ -1,0 +1,5 @@
+openai
+plotly
+python-dotenv
+pandas
+numpy
